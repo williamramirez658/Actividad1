@@ -1,0 +1,7 @@
+C:\Users\22-A340 CI3\Documents\Evelin\02_Tecnologo ADSI\Visualnet\3. trimestre\Actividad01\bin\Debug\Actividad01.exe.config
+C:\Users\22-A340 CI3\Documents\Evelin\02_Tecnologo ADSI\Visualnet\3. trimestre\Actividad01\bin\Debug\Actividad01.exe
+C:\Users\22-A340 CI3\Documents\Evelin\02_Tecnologo ADSI\Visualnet\3. trimestre\Actividad01\bin\Debug\Actividad01.pdb
+C:\Users\22-A340 CI3\Documents\Evelin\02_Tecnologo ADSI\Visualnet\3. trimestre\Actividad01\obj\Debug\Actividad01.csprojAssemblyReference.cache
+C:\Users\22-A340 CI3\Documents\Evelin\02_Tecnologo ADSI\Visualnet\3. trimestre\Actividad01\obj\Debug\Actividad01.csproj.CoreCompileInputs.cache
+C:\Users\22-A340 CI3\Documents\Evelin\02_Tecnologo ADSI\Visualnet\3. trimestre\Actividad01\obj\Debug\Actividad01.exe
+C:\Users\22-A340 CI3\Documents\Evelin\02_Tecnologo ADSI\Visualnet\3. trimestre\Actividad01\obj\Debug\Actividad01.pdb
